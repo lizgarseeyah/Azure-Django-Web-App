@@ -53,7 +53,7 @@ Test link: http://localhost:8000
   
 
 
-**Future Impelementation**
+**Future Impelementations**
 
 1. Configure a SQL database to store weather data.
 2. Create a dashboard webapp to dispaly weather forecasting analysis using python, html, css.
