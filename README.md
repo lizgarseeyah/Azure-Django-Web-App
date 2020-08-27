@@ -30,7 +30,7 @@ This project uses Azure and Django to build a simple web app.
 
 **To run the program**
 
-1. To use the application, login to the Azure Portal.
+1. Login to the Azure Portal.
 2. Upon login, navigate to the 'Azure Active Directory' (located on the left-hand navigation pane) to register the app. Under 'Manage', select 'App Registrations' -> 'New Registration' -> On 'Register an application', fill out:
   -  Name: Python Graph Tutorial
   - 'Supported account types' to 'Accounts in any organizational directory and personal Microsoft accounts'
