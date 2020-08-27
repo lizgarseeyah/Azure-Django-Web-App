@@ -28,7 +28,7 @@ This project uses Azure and Django to build a simple web app.
 - requirements.txt
 - oath_settings.yml
 
-**To run the programw**
+**To run the program**
 
 1. To use the application, login to the Azure Portal.
 2. Upon login, navigate to the 'Azure Active Directory' (located on the left-hand navigation pane) to register the app. Under 'Manage', select 'App Registrations' -> 'New Registration' -> On 'Register an application', fill out:
